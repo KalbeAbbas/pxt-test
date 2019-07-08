@@ -29,7 +29,7 @@ enum BME280_I2C_ADDRESS {
  * BME280 block
  */
 //% weight=100 color=#70c0f0 icon="\uf042" block="BME280"
-namespace bme280 {
+namespace SW01 {
     let bmeAddr = 0;
     let dig_T1: number;
     let dig_T2: number;
